@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Countdown</string>
+    <string name="gettime">获取倒计时时间</string>
+</resources>
